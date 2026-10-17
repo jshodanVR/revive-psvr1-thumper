@@ -1,0 +1,12 @@
+{
+  "resolution": "Thumper",
+  "fixedResolution": false,
+  "aim": false,
+  "activeProfileLogging": true,
+  "nativeFrameBindings": true,
+  "mixedGamepadVrPose": true,
+  "hmdOverlay": false,
+  "nativeNeo": false,
+  "compositorMask": false,
+  "maxResolutionScale": 150
+}
